@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import * as dotenv from 'dotenv'
 import joi from 'joi'
 import logger from './logger'
